@@ -19,12 +19,16 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Logs**
+ - Please open Windows explorer (if on Windows)
+ - Navigate to %appdata%\..\LocalLow\Long Lost\
+ - Zip the folder Rhyolite
+ - And upload to this bug report
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Version [e.g. 0.6.0.16 found in the bottom left of the game screen]
+**Game Info**
+ - How many people were playing?
+ - Were you hosting or joining someone else's game?
+ - Any bad lag or stuttering?
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the problem here. Screenshots or videos are some may help.
